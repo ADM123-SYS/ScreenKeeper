@@ -147,8 +147,3 @@ journalctl -u screen-guardian.service -f
 - 建议启动命令中避免再次使用 `sudo`
 - 生产环境建议将业务进程降权到专用用户运行（可在后续版本增强）
 
----
-
-## License
-
-可按你的仓库策略补充（例如 MIT）。
